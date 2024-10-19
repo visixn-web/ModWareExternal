@@ -16,6 +16,5 @@ ModWare.XYZ is an external tool designed for Roblox that allows users to inject 
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/ModWare.XYZ.git
+To install, you must join the discord server. 
+Right Here --> https://discord.gg/eWAjpe9gXH
