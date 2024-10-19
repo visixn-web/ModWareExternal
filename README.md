@@ -22,10 +22,10 @@ Welcome to **ModWare.XYZ**, a cutting-edge external tool designed for Roblox tha
 
 ## Features
 
-### 1. Lua Script Execution
+### 1. LuaVM Script Execution
 Effortlessly inject and run your own Lua scripts directly in the Roblox game environment. ModWare.XYZ provides a seamless way to modify game mechanics, create custom gameplay experiences, and automate repetitive tasks.
 
-### 2. Console Interface
+### 2. ImGUI Interface
 Interact with the tool through a user-friendly console interface that allows for real-time script input. The console supports multi-line input, making it easy to write complex scripts and execute them with a single command.
 
 ### 3. Modular Architecture
@@ -52,17 +52,10 @@ To successfully run ModWare.XYZ, ensure you meet the following requirements:
 - **Operating System**: Windows 10 or newer (x64 architecture).
 - **Development Environment**: Visual Studio 2019 or newer for building the project.
 - **Roblox**: Installed and up-to-date on your system.
-- **Injector**: A DLL injector capable of injecting the compiled DLL into the Roblox process.
 
 ---
 
 ## Installation
 
 Follow these steps to install ModWare.XYZ on your system:
-
-### Step 1: Clone the Repository
-
-Use Git to clone the ModWare.XYZ repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/ModWare.XYZ.git
+Join The Discord -- > https://discord.gg/eWAjpe9gXH
